@@ -23,7 +23,7 @@
 #define SPOOF_CONSOLEID	1	// spoof idps/psid
 
 //// TEST FEATURES ////
-//#define PS2_DISC		1	// uncomment to support /mount.ps2 (mount ps2 game folder as /dev_ps2disc)
+#define PS2_DISC		1	// uncomment to support /mount.ps2 (mount ps2 game folder as /dev_ps2disc)
 //#define NOSINGSTAR	1	// remove SingStar icon from XMB
 //#define SWAP_KERNEL	1	// load custom lv2_kernel.self patching LV1 and soft rebooting (use /copy.ps3)
 //#define EXTRA_FEAT	1	// save XMB to bmp, eject disc holding SELECT on mount,
